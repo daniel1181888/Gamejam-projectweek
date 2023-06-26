@@ -38,6 +38,7 @@
     {"id":{"name":"maincharmovement","path":"objects/maincharmovement/maincharmovement.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},},
+    {"id":{"name":"restartbutton","path":"objects/restartbutton/restartbutton.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"Backgroundew","path":"sprites/Backgroundew/Backgroundew.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
