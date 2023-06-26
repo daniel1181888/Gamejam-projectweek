@@ -7,7 +7,7 @@
   "option_copy_on_write_enabled": false,
   "option_draw_colour": 4294967295,
   "option_game_speed": 60,
-  "option_gameguid": "6a81398f-70e8-4483-8be5-e760c26e1b2d",
+  "option_gameguid": "b2b452bc-5f80-4fac-bc0c-e96d021d7a75",
   "option_gameid": "0",
   "option_mips_for_3d_textures": false,
   "option_sci_usesci": false,
