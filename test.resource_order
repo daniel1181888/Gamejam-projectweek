@@ -17,7 +17,10 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Mainchar","order":1,"path":"sprites/Mainchar/Mainchar.yy",},
+    {"name":"maincharmovement","order":1,"path":"objects/maincharmovement/maincharmovement.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite5","order":2,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Backgroundew","order":2,"path":"sprites/Backgroundew/Backgroundew.yy",},
   ],
 }

@@ -34,9 +34,10 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
-    {"id":{"name":"imisstherage","path":"objects/imisstherage/imisstherage.yy",},},
+    {"id":{"name":"Mainchar","path":"sprites/Mainchar/Mainchar.yy",},},
+    {"id":{"name":"maincharmovement","path":"objects/maincharmovement/maincharmovement.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"Backgroundew","path":"sprites/Backgroundew/Backgroundew.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
