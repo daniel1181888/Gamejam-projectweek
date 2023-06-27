@@ -41,6 +41,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},},
+    {"id":{"name":"Countdown","path":"objects/Countdown/Countdown.yy",},},
     {"id":{"name":"bullet","path":"objects/bullet/bullet.yy",},},
     {"id":{"name":"BulletEnemy","path":"objects/BulletEnemy/BulletEnemy.yy",},},
     {"id":{"name":"restartbutton","path":"objects/restartbutton/restartbutton.yy",},},

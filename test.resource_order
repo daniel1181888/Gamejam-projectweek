@@ -24,6 +24,7 @@
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite10","order":22,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Wall","order":3,"path":"objects/Wall/Wall.yy",},
+    {"name":"Countdown","order":7,"path":"objects/Countdown/Countdown.yy",},
     {"name":"bullet","order":18,"path":"objects/bullet/bullet.yy",},
     {"name":"BulletEnemy","order":23,"path":"objects/BulletEnemy/BulletEnemy.yy",},
     {"name":"restartbutton","order":4,"path":"objects/restartbutton/restartbutton.yy",},
