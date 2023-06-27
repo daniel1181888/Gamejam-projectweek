@@ -28,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Enemy",
-    "path": "sprites/Enemy/Enemy.yy",
+    "name": "IdleEnemy",
+    "path": "sprites/IdleEnemy/IdleEnemy.yy",
   },
   "spriteMaskId": null,
   "visible": true,

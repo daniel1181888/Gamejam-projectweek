@@ -20,7 +20,7 @@
     {"name":"Shooting6","order":21,"path":"objects/Shooting6/Shooting6.yy",},
     {"name":"Mainchar","order":1,"path":"sprites/Mainchar/Mainchar.yy",},
     {"name":"maincharmovement","order":1,"path":"objects/maincharmovement/maincharmovement.yy",},
-    {"name":"Enemy","order":6,"path":"sprites/Enemy/Enemy.yy",},
+    {"name":"IdleEnemy","order":6,"path":"sprites/IdleEnemy/IdleEnemy.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite10","order":22,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Wall","order":3,"path":"objects/Wall/Wall.yy",},
@@ -34,7 +34,9 @@
     {"name":"Sprite6","order":17,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Walking","order":16,"path":"sprites/Walking/Walking.yy",},
     {"name":"Sprite11","order":24,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"walkingenemy1","order":9,"path":"sprites/walkingenemy1/walkingenemy1.yy",},
     {"name":"Enemy1","order":5,"path":"objects/Enemy1/Enemy1.yy",},
+    {"name":"walkingEnemy","order":8,"path":"sprites/walkingEnemy/walkingEnemy.yy",},
     {"name":"Sprite7","order":19,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
