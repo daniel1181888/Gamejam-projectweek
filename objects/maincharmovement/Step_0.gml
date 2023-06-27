@@ -49,4 +49,13 @@ if (keyboard_check_pressed(vk_down) && canShoot)
     shotDelay = 30; // Reset the timer to the desired delay value
 }
 
+if (place_meeting(x, y, Enemy1))
+{
+    game_restart(); // Restart the game when colliding with obj_Enemy
+}
 
+// Check collision with obj_EnemyBullet
+if (place_meeting(x, y, BulletEnemy))
+{
+    game_restart(); // Restart the game when colliding with obj_EnemyBullet
+}
