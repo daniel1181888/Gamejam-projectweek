@@ -21,10 +21,13 @@
     {"name":"maincharmovement","order":1,"path":"objects/maincharmovement/maincharmovement.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Wall","order":3,"path":"objects/Wall/Wall.yy",},
+    {"name":"bullet","order":18,"path":"objects/bullet/bullet.yy",},
     {"name":"restartbutton","order":4,"path":"objects/restartbutton/restartbutton.yy",},
     {"name":"Sprite5","order":2,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Backgroundew","order":2,"path":"sprites/Backgroundew/Backgroundew.yy",},
+    {"name":"Idle","order":20,"path":"sprites/Idle/Idle.yy",},
     {"name":"Sprite6","order":17,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Walking","order":16,"path":"sprites/Walking/Walking.yy",},
+    {"name":"Sprite7","order":19,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
