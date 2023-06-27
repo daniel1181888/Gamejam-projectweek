@@ -1,0 +1,1 @@
+move_towards_point(maincharmovement.x,maincharmovement.y,5);
